@@ -19,6 +19,7 @@ A simple web app that generates secure random passwords using JavaScript.
 
 1. Clone the repository
 2. Open `index.html` in your browser
+3. Press generate password and it will display 2 random passwords
 
 ## Example Output
 
